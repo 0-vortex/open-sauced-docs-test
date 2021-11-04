@@ -1,3 +1,10 @@
+### [1.0.1](https://github.com/0-vortex/open-sauced-docs-test/compare/v1.0.0...v1.0.1) (2021-11-04)
+
+
+### Bug Fixes
+
+* correct static deploy cname leftover ([dc92305](https://github.com/0-vortex/open-sauced-docs-test/commit/dc92305a52bb6b9b1eb6f13aa8b3247e6bf33628))
+
 ## 1.0.0 (2021-11-04)
 
 
