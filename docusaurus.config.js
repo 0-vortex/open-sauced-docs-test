@@ -6,7 +6,7 @@ module.exports = {
   title: 'Open Sauced',
   tagline: 'The path to your next Open Source contribution',
   url: 'https://0-vortex.github.io/open-sauced-docs-test',
-  baseUrl: '/open-sauced-docs-test/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
