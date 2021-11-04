@@ -1,3 +1,10 @@
+### [1.0.3](https://github.com/0-vortex/open-sauced-docs-test/compare/v1.0.2...v1.0.3) (2021-11-04)
+
+
+### Bug Fixes
+
+* correct cname baseurl and pdf path ([3d56ddb](https://github.com/0-vortex/open-sauced-docs-test/commit/3d56ddb417736161894cc1176e89d25a9b253295))
+
 ### [1.0.2](https://github.com/0-vortex/open-sauced-docs-test/compare/v1.0.1...v1.0.2) (2021-11-04)
 
 
