@@ -1,3 +1,10 @@
+### [1.0.2](https://github.com/0-vortex/open-sauced-docs-test/compare/v1.0.1...v1.0.2) (2021-11-04)
+
+
+### Bug Fixes
+
+* correct baseurl and test deployment artifacts ([5f968f9](https://github.com/0-vortex/open-sauced-docs-test/commit/5f968f96fbdbf11e1e853846fff68984cfd06166))
+
 ### [1.0.1](https://github.com/0-vortex/open-sauced-docs-test/compare/v1.0.0...v1.0.1) (2021-11-04)
 
 
