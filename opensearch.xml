@@ -4,8 +4,8 @@
   <ShortName>Open Sauced</ShortName>
   <Description>Search Open Sauced</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://0-vortex.github.io/open-sauced-docs-test/img/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://0-vortex.github.io/open-sauced-docs-test/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://0-vortex.github.io/open-sauced-docs-test/opensearch.xml" />
-  <moz:SearchForm>https://0-vortex.github.io/open-sauced-docs-test/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://0-vortex.github.io/open-sauced-docs-test/open-sauced-docs-test/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://0-vortex.github.io/open-sauced-docs-test/open-sauced-docs-test/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://0-vortex.github.io/open-sauced-docs-test/open-sauced-docs-test/opensearch.xml" />
+  <moz:SearchForm>https://0-vortex.github.io/open-sauced-docs-test/open-sauced-docs-test/</moz:SearchForm>
 </OpenSearchDescription>
