@@ -67,7 +67,7 @@ jobs:
 
   release:
     environment:
-      name: production
+      name: ghcr
       url: https://github.com/${{ github.repository }}/releases/tag/v${{ steps.release.outputs.version }}
     name: Semantic release
     needs:
