@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'Open Sauced',
   tagline: 'The path to your next Open Source contribution',
-  url: 'https://0-vortex.github.io/open-sauced-docs-test',
+  url: 'https://open-sauced-docs-test.vortex.name',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

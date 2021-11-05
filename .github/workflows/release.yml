@@ -196,6 +196,7 @@ jobs:
           publish_dir: ./build
           commit_message: ${{ github.event.head_commit.message }}
           enable_jekyll: false
+          cname: open-sauced-docs-test.vortex.name
 
   cleanup:
     name: Cleanup actions
