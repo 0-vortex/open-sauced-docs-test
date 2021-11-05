@@ -178,13 +178,16 @@ jobs:
       - name: "📦 install dependencies"
         run: npm ci
 
-      - name: "🚀 generate pdf"
-        run: npm run pdf
-
       - name: "📂 copy artifacts"
         run: |
           cp -R /home/runner/build .
           ls -lahH ./build
+
+      - name: "🚀 generate pdf"
+        run: |
+          npm run pdf
+          ls -lahH ./build
+          ls -lahH
 
       - name: "🚀 deploy static"
         uses: peaceiris/actions-gh-pages@v3
