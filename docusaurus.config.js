@@ -104,6 +104,10 @@ module.exports = {
             {
               label: 'Blog',
               href: 'https://dev.to/opensauced',
+            },
+            {
+              label: 'Download book',
+              href: 'https://open-sauced-docs-test.vortex.name/open-sauced-docs.pdf',
             }
           ],
         },
