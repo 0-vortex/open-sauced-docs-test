@@ -1,3 +1,10 @@
+### [1.0.5](https://github.com/0-vortex/open-sauced-docs-test/compare/v1.0.4...v1.0.5) (2021-11-05)
+
+
+### Tests
+
+* live cname deployment ([c7b0dc7](https://github.com/0-vortex/open-sauced-docs-test/commit/c7b0dc7ee03e5422aa82e24a1787336a5ffc80d7))
+
 ### [1.0.4](https://github.com/0-vortex/open-sauced-docs-test/compare/v1.0.3...v1.0.4) (2021-11-05)
 
 
