@@ -1,3 +1,10 @@
+## [1.2.0](https://github.com/0-vortex/open-sauced-docs-test/compare/v1.1.0...v1.2.0) (2021-11-05)
+
+
+### Features
+
+* add docker build caching ([6943b53](https://github.com/0-vortex/open-sauced-docs-test/commit/6943b5360288f7ee1a98a790751fe253561e20ba))
+
 ## [1.1.0](https://github.com/0-vortex/open-sauced-docs-test/compare/v1.0.5...v1.1.0) (2021-11-05)
 
 
