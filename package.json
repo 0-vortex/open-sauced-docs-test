@@ -1,6 +1,6 @@
 {
   "name": "open-sauced-docs-test",
-  "version": "1.0.5",
+  "version": "1.1.0",
   "private": true,
   "engines": {
     "node": ">=14",

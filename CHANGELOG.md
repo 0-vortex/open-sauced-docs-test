@@ -1,3 +1,10 @@
+## [1.1.0](https://github.com/0-vortex/open-sauced-docs-test/compare/v1.0.5...v1.1.0) (2021-11-05)
+
+
+### Features
+
+* add book download url ([cd87f96](https://github.com/0-vortex/open-sauced-docs-test/commit/cd87f96d3b923e926adec0f2653522f87016b399))
+
 ### [1.0.5](https://github.com/0-vortex/open-sauced-docs-test/compare/v1.0.4...v1.0.5) (2021-11-05)
 
 
