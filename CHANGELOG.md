@@ -1,3 +1,10 @@
+### [1.0.4](https://github.com/0-vortex/open-sauced-docs-test/compare/v1.0.3...v1.0.4) (2021-11-05)
+
+
+### Bug Fixes
+
+* create proper pdf file in build directory ([36614cf](https://github.com/0-vortex/open-sauced-docs-test/commit/36614cffcb97d2fb756f97a57377149a522cc911))
+
 ### [1.0.3](https://github.com/0-vortex/open-sauced-docs-test/compare/v1.0.2...v1.0.3) (2021-11-04)
 
 
